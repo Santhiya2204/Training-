@@ -1,7 +1,7 @@
 # Training Phase - 1
 
 **Your Name:** SANTHIYASRI R  
-**Register Number:** 713322AD091  
+**Register Number:** 713322AD091
 
 ---
 
