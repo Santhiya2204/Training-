@@ -22,7 +22,7 @@
 | Level 5 | None             |
 | Level 6 | None             |
 | Level 7 | None             | 
-| Level 8 | Task 2           |
+| Level 8 | None             |
 | Level 9 | Task 3,5         |
 | Level 10| Task 4           |
 | Level 11| None             |
